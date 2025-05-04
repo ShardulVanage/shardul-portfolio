@@ -60,9 +60,9 @@ export default function Personal() {
       <motion.section variants={VARIANTS_SECTION} transition={TRANSITION_SECTION}>
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            I'm a Frontend Developer with over 2 years of experience building modern, responsive web applications using
-            React.js, Next.js, and Tailwind CSS. I've worked as a solo developer, handling everything from UI/UX design
-            to deployment, payment gateway integration, and cloud/server management. Whether it's building full-scale
+            I&apos;m a Frontend Developer with over 2 years of experience building modern, responsive web applications using
+            React.js, Next.js, and Tailwind CSS. I&apos;ve worked as a solo developer, handling everything from UI/UX design
+            to deployment, payment gateway integration, and cloud/server management. Whether it&apos;s building full-scale
             platforms, managing conference sites, or integrating AI features — I bring a clean, scalable, and
             performance-driven approach to every project.
           </p>
